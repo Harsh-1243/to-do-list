@@ -1,2 +1,3 @@
 # to-do-list
-this is the simple to-do-list project using html,css,js.
+
+PROJECT LINK:- https://harsh-1243.github.io/to-do-list/
