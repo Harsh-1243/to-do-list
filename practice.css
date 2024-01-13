@@ -45,16 +45,16 @@ ul{
     background-color: #edeef0;
     border-radius: 20px;
     padding-left: 20px;
-    flex-grow: 0;
-    flex-shrink: 1;
+    flex-grow: 1;
+    flex-shrink: 0;
 }
 
 #textbox {
 
     border: none;
     background: transparent;    
-    flex-grow: 0;
-    flex-shrink: 1;
+    flex-grow: 1;
+    flex-shrink: 0;
 }
 
 .main button {
@@ -140,31 +140,34 @@ ul li::before{
 
     #textbox{
 
-        font-size: 10px;
-
+        /* font-size: 10px; */
+        font-size: 15px;
     }
 
     .main button{
 
-        font-size: 0.7rem;
-        padding: 10px 20px;
+        /* font-size: 0.7rem;
+        padding: 10px 20px; */
+
+        padding: 15px 30px;
 
     }
 
     ul li{
 
-        font-size: 0.7rem;
+        /* font-size: 0.7rem; */
     }
 
     .fa-xmark{
 
-        padding: 0;
+        /* padding: 0; */
        
     }
 
     ul li::before{
 
-        height: 20px;
-        width: 20px;
+        /* height: 20px;
+        width: 20px; */
+
     }
 }
